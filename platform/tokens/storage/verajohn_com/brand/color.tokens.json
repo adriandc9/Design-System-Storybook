@@ -1,0 +1,208 @@
+{
+  "color": {
+    "group": "base",
+    "primary": {
+      "group": "modifier",
+      "050": {
+        "value": "#c2edff"
+      },
+      "100": {
+        "value": "#8fddff"
+      },
+      "200": {
+        "value": "#4cc9ff"
+      },
+      "300": {
+        "value": "#0FB7FF"
+      },
+      "400": {
+        "value": "#00a1e5"
+      },
+      "500": {
+        "value": "#0090ce"
+      },
+      "600": {
+        "value": "#007DB2"
+      },
+      "700": {
+        "value": "#00648F"
+      },
+      "800": {
+        "value": "#004766"
+      },
+      "900": {
+        "value": "#00374f"
+      }
+    },
+    "secondary": {
+      "group": "modifier",
+      "050": {
+        "value": "#fffbcc"
+      },
+      "100": {
+        "value": "#FFF699"
+      },
+      "200": {
+        "value": "#FFF480"
+      },
+      "300": {
+        "value": "#FFF15D"
+      },
+      "400": {
+        "value": "#ffea00"
+      },
+      "500": {
+        "value": "#FFE246"
+      },
+      "600": {
+        "value": "#FFC933"
+      },
+      "700": {
+        "value": "#FFB330"
+      },
+      "800": {
+        "value": "#F7901D"
+      },
+      "900": {
+        "value": "#e57a00"
+      }
+    },
+    "tertiary": {
+      "group": "modifier",
+      "050": {
+        "value": "#FFCCEB"
+      },
+      "100": {
+        "value": "#ffb3e0"
+      },
+      "200": {
+        "value": "#ff99d6"
+      },
+      "300": {
+        "value": "#ff66c2"
+      },
+      "400": {
+        "value": "#FF33AD"
+      },
+      "500": {
+        "value": "#F50093"
+      },
+      "600": {
+        "value": "#E5008A"
+      },
+      "700": {
+        "value": "#B2006C"
+      },
+      "800": {
+        "value": "#80004d"
+      },
+      "900": {
+        "value": "#4d002e"
+      }
+    },
+    "neutral": {
+      "group": "modifier",
+      "010": {
+        "value": "#ffffff"
+      },
+      "050": {
+        "value": "#ffffff"
+      },
+      "100": {
+        "value": "#F2F3F3"
+      },
+      "200": {
+        "value": "#E4E6E7"
+      },
+      "300": {
+        "value": "#D7DADB"
+      },
+      "400": {
+        "value": "#BCC1C2"
+      },
+      "500": {
+        "value": "#949B9E"
+      },
+      "600": {
+        "value": "#6d7578"
+      },
+      "700": {
+        "value": "#555b5e"
+      },
+      "800": {
+        "value": "#3d4143"
+      },
+      "900": {
+        "value": "#303436"
+      }
+    },
+    "signal": {
+      "100": {
+        "value": "#c2edff"
+      },
+      "200": {
+        "value": "#43C7FF"
+      },
+      "300": {
+        "value": "#0082ba"
+      },
+      "400": {
+        "value": "#c6ffe7"
+      },
+      "500": {
+        "value": "#12CD8A"
+      },
+      "600": {
+        "value": "#00A17A"
+      },
+      "700": {
+        "value": "#ffe682"
+      },
+      "800": {
+        "value": "#FFDB5D"
+      },
+      "900": {
+        "value": "#F7901D"
+      },
+      "1000": {
+        "value": "#ffb7cf"
+      },
+      "1100": {
+        "value": "#ff6581"
+      },
+      "1200": {
+        "value": "#D81757"
+      }
+    },
+    "gradient": {
+      "group": "modifier",
+      "100": {
+        "value": "linear-gradient(180deg, #FFC933 0%, #F7901D 100%)"
+      },
+      "200": {
+        "value": "linear-gradient(180deg, #FFE246 0%, #FFC933 34.95%, #FFB22F 100%)"
+      },
+      "300": {
+        "value": "linear-gradient(180deg, #F7901D 0%, #FFC933 100%)"
+      },
+      "400": {
+        "value": "linear-gradient(180deg, #FA57CC 0%, #F444B8 26.85%, #ED30A3 51.39%, #E51E8D 85.97%, #BB116D 100%)"
+      },
+      "500": {
+        "value": "linear-gradient(180deg, #FF5FE7 0%, #FF4BD4 26.85%, #FF32B9 51.39%, #FF1EA2 83.64%, #DD067F 100%)"
+      },
+      "600": {
+        "value": "linear-gradient(180deg, #C31473 0%, #E51F8E 16.01%, #EF36AA 57.87%, #F154C2 100%)"
+      },
+      "700": {
+        "value": "linear-gradient(180deg, #4CB2DF 0%, #009FE3 22.74%, #0093D4 50.33%, #0082BA 85.39%, #005F87 100%)"
+      },
+      "800": {
+        "value": "linear-gradient(180deg, #25B7F2 0%, #2592C1 100%)"
+      },
+      "900": {
+        "value": "linear-gradient(180deg, rgba(1, 134, 192, 0.00) 50%, rgba(1, 134, 192, 0.47) 100%), linear-gradient(180deg, #0186C0 27.08%, #15A4E2 100%)"
+      }
+    }
+  }
+}
