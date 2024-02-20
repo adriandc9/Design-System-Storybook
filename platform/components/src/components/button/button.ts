@@ -18,6 +18,7 @@ export default class Button extends SparkElement implements SparkFormControl {
   private readonly formControlController = new FormControlController(this, {
     form: (input) => {
       // Buttons support a form attribute that points to an arbitrary form, so if this attribute is set we need to query
+      // Github Test 2
       // the form from the same root using its id
       if (input.hasAttribute('form')) {
         const doc = input.getRootNode() as Document | ShadowRoot;
